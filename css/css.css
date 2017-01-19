@@ -1,0 +1,217 @@
+/*
+#C0B283 (pale gold)
+#DCD0C0 (silk)
+#F4F4F4 (paper)
+#373737 (charcoal)
+*/
+
+
+body {
+    background-color: dodgerblue;
+    font-family: rockwell;
+}
+
+header {
+    background-color: dodgerblue;
+    font-family: rockwell;
+    color: white;
+}
+
+h1 {
+    font-size: 65px;
+    text-align: center;
+    position: relative;
+}
+
+h2 {
+    color: #F4F4F4;
+}
+
+h3 {
+    color: #F4F4F4;
+}
+
+.ht {
+    text-align: center;
+    font-size: 35px;
+    font-family: rockwell;
+}
+
+.cs {
+    text-align: center;
+    font-size: 50px;
+    font-family: rockwell;
+    color: #C0B283;
+}
+
+.text {
+    font-size: 15px;
+    color: #F4F4F4;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #F4F4F4;
+    text-decoration: none;
+}
+
+a:active {
+    color: white;
+    text-decoration-color: none;
+}
+
+#aboutme {
+    font-size: 25px;
+    color: #F4F4F4;
+    text-align: center;
+    border-radius: 15px 50px;
+    border: 3px solid white;
+}
+
+#fresh {
+    background-color: dodgerblue;
+    padding: 4px 25px 9px 60px;
+    color: white;
+    border-radius: 15px 50px;
+    border: 3px solid white;
+    text-align: center;
+    font-size: 35px;
+    font-family: rockwell;
+}
+
+#soph {
+    background-color: dodgerblue;
+    padding: 4px 25px 9px 60px;
+    color: white;
+    border-radius: 15px 50px;
+    border: 3px solid white;
+    text-align: center;
+    font-size: 35px;
+    font-family: rockwell;
+}
+
+#jun {
+    background-color: dodgerblue;
+    padding: 4px 25px 9px 60px;
+    color: white;
+    border-radius: 15px 50px;
+    border: 3px solid white;
+    text-align: center;
+    font-size: 35px;
+    font-family: rockwell;
+}
+
+#sen {
+    background-color: dodgerblue;
+    padding: 4px 25px 9px 60px;
+    color: white;
+    border-radius: 15px 50px;
+    border: 3px solid white;
+    text-align: center;
+    font-size: 35px;
+    font-family: rockwell;
+}
+
+#res {
+    background-color: dodgerblue;
+    padding: 4px 25px 9px 60px;
+    color: white;
+    border-radius: 15px 50px;
+    border: 3px solid white;
+    text-align: center;
+    font-size: 35px;
+    font-family: rockwell;
+}
+
+#aa {
+    background-color: dodgerblue;
+    padding: 4px 25px 9px 60px;
+    color: white;
+    border-radius: 15px 50px;
+    border: 3px solid white;
+    text-align: center;
+    font-size: 35px;
+    font-family: rockwell;
+}
+
+#am {
+    background-color: dodgerblue;
+    padding: 4px 25px 9px 60px;
+    color: white;
+    border-radius: 15px 50px;
+    border: 3px solid white;
+    text-align: center;
+    font-size: 35px;
+    font-family: rockwell;
+}
+
+.nav {
+    border:1px solid white;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+
+.nav li {
+    display:inline;
+}
+
+.nav a {
+    display:inline-block;
+    padding:10px;
+    color: white;
+    text-decoration: none;
+    font-family: rockwell;
+}
+
+.nav li a:hover {
+    background-color: #F4F4F4;
+    color: dodgerblue;
+}
+
+.ill {
+    height: 300px;
+    width: 400px;
+}
+
+.pho {
+    height: 100px;
+    width: 150px;
+    padding-top: 300px;
+}
+
+iframe {
+    height: 600px;
+    width: 860px;
+}
+
+#stamp {
+    height: 600px;
+    width: 860;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
